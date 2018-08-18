@@ -23,7 +23,7 @@ Drag and drop a card header, and fill the title,subtitle as some text and in img
 - Like this multiple card header can be put inside a card.  
  
 
-##Associated Attributes:
+## Associated Attributes:
 - **Style**-accepts string value and it is applied as inline css to element and it is affected based on property given. An inline CSS is used to apply a unique style to a single HTML element. An inline CSS uses the style attribute of an HTML element.
 (eg. color:blue).
 
