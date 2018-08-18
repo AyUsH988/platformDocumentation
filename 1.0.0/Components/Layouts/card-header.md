@@ -11,7 +11,7 @@ Drag and drop a card header, and fill the title,subtitle as some text and in img
 
 
 ### Example.                                      
-**Display a card header with title Agra,subtitle as Taj Mahal and a taj image-**
+**Display a card header with title Agra,subtitle as Taj Mahal and a taj image**
 
 - Drag and drop a card header.
 
